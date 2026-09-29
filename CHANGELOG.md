@@ -1,3 +1,14 @@
+# Changelog
+
+## 1.0.0 — 2026-09-29
+
+- Publish the preserved path-browserify 1.0.1 POSIX implementation as `@stackline/path-browserify`.
+- Preserve upstream authorship, MIT license, API, and runtime dependency/engine declarations.
+- Add installed-tarball and browser-shim contract checks, issue review, CI, CodeQL, exact-artifact npm provenance, and immutable release evidence.
+- Update the development-only Tape test runner. No runtime implementation changes.
+
+## Upstream changelog
+
 # path-browserify change log
 
 All notable changes to this project will be documented in this file.

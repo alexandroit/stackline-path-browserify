@@ -1,0 +1,4 @@
+This is an independent maintenance fork of path-browserify 1.0.1.
+Upstream source commit: 872fec31a8bac7b9b43be0e54ef3037e0202c5fb
+The upstream license and author notices are retained unchanged.
+Stackline changes are documented in CHANGELOG.md. No upstream endorsement is implied.
