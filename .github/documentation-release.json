@@ -1,0 +1,26 @@
+{
+  "repository": "alexandroit/stackline-path-browserify",
+  "packages": [
+    {
+      "name": "@stackline/path-browserify",
+      "path": "README.md",
+      "version": "1.0.1",
+      "baselineVersion": "1.0.0",
+      "keywords": [
+        "stackline",
+        "npm-package",
+        "path-browserify",
+        "nodejs",
+        "browser",
+        "browserify",
+        "path",
+        "maintenance-fork"
+      ],
+      "homepage": "https://alexandro.net/docs/vanilla/path-browserify/",
+      "baselineTarball": "https://registry.npmjs.org/@stackline/path-browserify/-/path-browserify-1.0.0.tgz",
+      "baselineIntegrity": "sha512-pttZplo+ijYZdK74hPNuEi0Ht8lzttNU/YPbDr0X9vhjCn8EZuX3pYSKmA2iPLyIicPppXAXxgjxeYCXNNhu4A==",
+      "expectedSha512": "e498c0b6731c39442d7253e100cc6560e7adcca8dfed8dae7387352e87d630069e4e2b1fa4bc8b3ca9551eed73c2c0ddd1931c9bec9dacf70720d3af8e793057",
+      "tag": "docs-stackline-path-browserify-v1.0.1"
+    }
+  ]
+}
