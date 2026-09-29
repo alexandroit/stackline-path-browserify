@@ -1,7 +1,7 @@
 {
   "name": "@stackline/path-browserify",
   "description": "the path module from node core for browsers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "James Halliday",
     "email": "mail@substack.net",
@@ -14,12 +14,15 @@
   "devDependencies": {
     "tape": "5.10.2"
   },
-  "homepage": "https://github.com/alexandroit/stackline-path-browserify#readme",
+  "homepage": "https://alexandro.net/docs/vanilla/path-browserify/",
   "keywords": [
+    "stackline",
+    "npm-package",
+    "path-browserify",
+    "nodejs",
     "browser",
     "browserify",
     "path",
-    "stackline",
     "maintenance-fork"
   ],
   "license": "MIT",
